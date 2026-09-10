@@ -1,0 +1,17 @@
+{
+  "name": "genpark-apache-avro-schema-evolution-resolver-skill",
+  "version": "1.0.0",
+  "description": "Apache Avro binary encoding and schema evolution resolution engine handling schema compatibility, missing fields, and default values.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "avro",
+    "schema-evolution",
+    "binary-serialization",
+    "backward-compatibility",
+    "data-lake"
+  ],
+  "dependencies": []
+}
